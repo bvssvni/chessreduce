@@ -2,6 +2,7 @@ chessreduce
 ===========
 
 Chess game potential solver in C
+BSD license
 
 A 'potential' is a description of possible states.  
 There are several kinds of potential and often we combine different types at the same time.  
